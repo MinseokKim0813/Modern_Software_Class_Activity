@@ -1,1 +1,2 @@
-edited by someoned
+def function1:
+  do something 1
