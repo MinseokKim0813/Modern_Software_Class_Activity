@@ -1,2 +1,2 @@
-edited by someone differently
-
+<<<<<<< HEAD
+edited by both and merged properly
